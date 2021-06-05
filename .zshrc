@@ -34,7 +34,7 @@ export LANG=en_US.UTF-8
 # Configure Homebrew
 export HOMEBREW_NO_ANALYTICS=1
 export HOMEBREW_NO_INSECURE_REDIRECT=1
-export HOMEBREW_CASK_OPTS=--require-sha
+# export HOMEBREW_CASK_OPTS=--require-sha
 
 # Remove percent sign at the end of files without new line at the end
 PROMPT_EOL_MARK=""
