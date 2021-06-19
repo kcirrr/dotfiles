@@ -1,5 +1,4 @@
 function bu() {
-    echo "Xcode commandline tools already installed"
     echo "Make sure Xcode commandline tools is installed"
     xcode-select --install && read -rp "Press enter to continue" || true
     echo "Updating Homebrew package list..."
