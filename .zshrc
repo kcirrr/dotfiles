@@ -21,6 +21,7 @@ antigen bundle direnv
 antigen bundle git
 antigen bundle kubectl
 antigen bundle lxd
+antigen bundle extract
 antigen bundle zsh-users/zsh-completions
 antigen bundle zsh-users/zsh-autosuggestions
 
